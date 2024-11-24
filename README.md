@@ -1,1 +1,1 @@
-# In this project I have done binary classification on Raisin Varieties dataset. I have compared KNN, LSTM, RandomForest for prediction and compared their results, the average accuracy for each model is around 92%
+## In this project I have done binary classification on Raisin Varieties dataset. I have compared KNN, LSTM, RandomForest for prediction and compared their results, the average accuracy for each model is around 92%
